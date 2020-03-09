@@ -1,0 +1,5 @@
+---
+applications:
+- name: mapLines
+  memory: 64M
+  instances: 1
