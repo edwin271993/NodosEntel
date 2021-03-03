@@ -14,7 +14,7 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
     "nodemon": "^1.19.4",
-    "pug": "2.0.0-beta11"
+    "pug": "3.0.1"
   },
   "description": "Aplicación Web orientada a la observación inmediata de nodos y puntos dentro de la red definida en un mapa.",
   "main": "app.js",
